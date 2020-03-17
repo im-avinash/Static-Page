@@ -1,0 +1,16 @@
+{
+    "name":"Web Template",
+    "short_name":"webtemplate",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"#FFE1C4",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/images/logo.png",
+            "type": "image/png",
+            "sizes":"192x60"
+        }
+    ]
+}
